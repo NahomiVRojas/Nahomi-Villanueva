@@ -20,8 +20,8 @@ Estoy emocionado/a por lo que el futuro tecnológico tiene reservado para mí."
 
 
 ## Idiomas: 
--Español \
+-Español 
 
 ## Contacto: 
 Email: nahomivillanueva2@gmail.com \
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [Enlace](https://www.linkedin.com/in/nahomi-isbel-villanueva-rojas-1a8a48278/) 
+[![Linkedin: andressa-webdev](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nahomi-isbel-villanueva-rojas-1a8a48278/) 
