@@ -20,7 +20,7 @@ Estoy emocionado/a por lo que el futuro tecnológico tiene reservado para mí."
 
 
 ## Idiomas: 
--Español - Nativo/
+-Español - Nativo
 -Ingles - Basico
 
 ## Contacto: 
