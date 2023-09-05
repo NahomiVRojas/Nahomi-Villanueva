@@ -1,4 +1,4 @@
-# Hello there! I'm Nahomi 👋  Front-End Developer Jr.
+# Hola a todos! Soy Nahomi 👋  Front-End Developer Jr.
 
 ## Sobre mí: 
 "Soy una FrontEnd Developer Jr, bachiller en Contabilidad. 
