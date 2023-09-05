@@ -1,29 +1,27 @@
-# Hello there! I'm Bryan 👋  Full Stack Developer Jr.
+# Hello there! I'm Nahomi 👋  Front-End Developer Jr.
 
 ## Sobre mí: 
-Apasionado de la tecnología, Full Stack Developer Jr. y Bachiller en Ing.Electrónica. Involucrado con un aprendizaje constante y el desarrollo de habilidades para afrontar cualquier desafío. Mi objetivo es la mejora y optimización continua de todos los proyectos y actividades en las que estoy involucrado.
-
-Estoy emocionado por formar parte de un equipo dinámico y seguir aprendiendo para convertirme en un profesional destacado en el mundo de la programación. Siempre estoy abierto a nuevos retos y listo para enfrentar cualquier desafío que se presente.
+"Soy una FrontEnd Developer Jr, bachiller en Contabilidad. 
+Mi viaje en el mundo de la tecnología comenzó como una pasión que se encendió después de haber descubierto la programación. 
+Creo en segundas oportunidades, mi encuentro con la programación ha sido una de las mejores cosas que me han pasado. 
+Mi deseo es enfocar mi pasión por la programación, aprovechando tanto mis habilidades técnicas como las habilidades para la vida que he adquirido, para asi abordar desafíos de manera innovadora y eficiente. 
+Estoy emocionado/a por lo que el futuro tecnológico tiene reservado para mí."
 
 ## Formación Académica: 
--Full Stack Developer - Henry (Argentina). \
--Egresado Maestría Ciencias de la Computación - Universidad Nacional de San Agustín (Arequipa). \
--Bachiller en Ing. Electrónica - Universidad Católica de Santa María (Perú). \
+-Front-End Developer - Laboratoria. \
+-Egresado Maestría en ciencias: contables y financieras con mención en gestión estratégica del talento humano y régimen de remuneraciones - Universidad Nacional de San Agustín (Arequipa). \
+-Bachiller en Contabilidad - Universidad Católica de Santa María (Perú). \
 
 ## Conocimientos: 
--Front-end: HTML, CSS, JavaScript, React, Redux, Json, Bootstrap. \
--Back-end: Node.js, Express. \
--Bases de datos: PostgreSQL, SQL. \
+-Front-end: HTML, CSS, JavaScript, React, Bootstrap. \
 -Herramientas de desarrollo: Visual Studio Code, Visual Studio. \
--Otros: Python, C++, MatLab, Arduino, Raspberry, Cisco CCNA,AutoCad, Inventor, Proteus. \
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,firebase,jest,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,nodejs,jest,firebase,cloudfare)](https://skillicons.dev)
 
 
 ## Idiomas: 
--Español\
--Inglés
+-Español \
 
 ## Contacto: 
-Email: bryan201429@gmail.com \
-LinkedIn: [Enlace](https://www.linkedin.com/in/bryan-fausto-coaguila-torres-ab9365181/) 
+Email: nahomivillanueva2@gmail.com \
+LinkedIn: [Enlace](https://www.linkedin.com/in/nahomi-isbel-villanueva-rojas-1a8a48278/)
