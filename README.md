@@ -24,4 +24,4 @@ Estoy emocionado/a por lo que el futuro tecnológico tiene reservado para mí."
 
 ## Contacto: 
 Email: nahomivillanueva2@gmail.com \
-LinkedIn: [Enlace](https://www.linkedin.com/in/nahomi-isbel-villanueva-rojas-1a8a48278/)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev) [Enlace](https://www.linkedin.com/in/nahomi-isbel-villanueva-rojas-1a8a48278/) 
