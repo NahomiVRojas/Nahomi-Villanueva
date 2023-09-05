@@ -16,7 +16,7 @@ Estoy emocionado/a por lo que el futuro tecnológico tiene reservado para mí."
 -Front-end: HTML, CSS, JavaScript, React, Bootstrap. \
 -Herramientas de desarrollo: Visual Studio Code, Visual Studio. 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,nodejs,jest,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,nodejs,jest,gitHub,firebase)](https://skillicons.dev)
 
 
 ## Idiomas: 
