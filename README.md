@@ -20,7 +20,8 @@ Estoy emocionado/a por lo que el futuro tecnológico tiene reservado para mí."
 
 
 ## Idiomas: 
--Español 
+-Español - Nativo/
+-Ingles - Basico
 
 ## Contacto: 
 Email: nahomivillanueva2@gmail.com \
