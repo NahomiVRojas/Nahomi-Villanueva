@@ -16,8 +16,6 @@ Estoy emocionada por lo que el futuro tecnológico tiene reservado para mí."
 ## Conocimientos:  
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,nodejs,jest,github,cloudflare,firebase)](https://skillicons.dev)
-[![VITE](https://img.shields.io/badge/VITE-000000?style=width:90px;height:18px;&logo=vite&logoColor=white&color=8A2BE2)]()
-[![VISUAL STUDIO CODE](https://img.shields.io/badge/VISUAL_STUDIO_CODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&style=width:120px;)]()
 
 ## Contáctame
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahomi-isbel-villanueva-rojas-1a8a48278/)
