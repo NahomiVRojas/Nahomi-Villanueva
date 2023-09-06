@@ -11,7 +11,7 @@ Estoy emocionada por lo que el futuro tecnológico tiene reservado para mí."
 ## Formación Académica: 
 -Front-End Developer - Laboratoria. \
 -Egresado Maestría en ciencias: contables y financieras con mención en gestión estratégica del talento humano y régimen de remuneraciones - Universidad Nacional de San Agustín (Arequipa). \
--Bachiller en Contabilidad - Universidad Católica de Santa María (Perú). \
+-Bachiller en Contabilidad - Universidad Católica de Santa María (Perú). 
 
 ## Conocimientos:  
 
