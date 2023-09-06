@@ -1,5 +1,5 @@
 # Hola! Soy Nahomi 🙋🏻‍♀️ 
-  Front-End Developer Jr.
+  # Front-End Developer Jr.
 
 ## Sobre mí: 
 "Soy una FrontEnd Developer Jr, bachiller en Contabilidad. 
@@ -13,11 +13,9 @@ Estoy emocionado/a por lo que el futuro tecnológico tiene reservado para mí."
 -Egresado Maestría en ciencias: contables y financieras con mención en gestión estratégica del talento humano y régimen de remuneraciones - Universidad Nacional de San Agustín (Arequipa). \
 -Bachiller en Contabilidad - Universidad Católica de Santa María (Perú). \
 
-## Conocimientos: 
--Front-end: HTML, CSS, JavaScript, React, Bootstrap. \
--Herramientas de desarrollo: Visual Studio Code, Visual Studio. 
+## Conocimientos:  
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,nodejs,jest,github,cloudflare,firebase,slack)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,nodejs,jest,github,cloudflare,firebase)](https://skillicons.dev)
 
 ## Contáctame
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahomi-isbel-villanueva-rojas-1a8a48278/)
