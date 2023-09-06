@@ -6,7 +6,7 @@
 Mi viaje en el mundo de la tecnología comenzó como una pasión que se encendió después de haber descubierto la programación. 
 Creo en segundas oportunidades, mi encuentro con la programación ha sido una de las mejores cosas que me han pasado. 
 Mi deseo es enfocar mi pasión por la programación, aprovechando tanto mis habilidades técnicas como las habilidades para la vida que he adquirido, para asi abordar desafíos de manera innovadora y eficiente. 
-Estoy emocionado/a por lo que el futuro tecnológico tiene reservado para mí."
+Estoy emocionada por lo que el futuro tecnológico tiene reservado para mí."
 
 ## Formación Académica: 
 -Front-End Developer - Laboratoria. \
