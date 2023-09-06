@@ -1,4 +1,5 @@
-# Hola a todos! Soy Nahomi 👋  Front-End Developer Jr.
+# Hola! Soy Nahomi 🙋🏻‍♀️ 
+  Front-End Developer Jr.
 
 ## Sobre mí: 
 "Soy una FrontEnd Developer Jr, bachiller en Contabilidad. 
@@ -16,13 +17,8 @@ Estoy emocionado/a por lo que el futuro tecnológico tiene reservado para mí."
 -Front-end: HTML, CSS, JavaScript, React, Bootstrap. \
 -Herramientas de desarrollo: Visual Studio Code, Visual Studio. 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,nodejs,jest,github,cloudflare,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,figma,nodejs,jest,github,cloudflare,firebase,slack)](https://skillicons.dev)
 
-
-## Idiomas: 
--Español (Nativo) \
--Ingles (Basico)
-
-## Contacto: 
-Email: nahomivillanueva2@gmail.com \
-[![Linkedin: andressa-webdev](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/nahomi-isbel-villanueva-rojas-1a8a48278/) 
+## Contáctame
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nahomi-isbel-villanueva-rojas-1a8a48278/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nahomivillanueva2@gmail.com)
